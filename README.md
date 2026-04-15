@@ -71,3 +71,4 @@ Tambahkan nama anggota kelompok di sini:
 - M. Farhan Fauzi Akbar
 - Elsa Aulia
 - Intan Khalimatu
+- Raddin Pratama Rachmat
